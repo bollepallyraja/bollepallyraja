@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bollepallyraja
 - 👀 I’m interested in Learning Coding
-- 🌱 I’m currently learning .Net
-- 💞️ I’m looking to collaborate on .net 
+- 🌱 I’m currently learning Full Stack
+- 💞️ I’m looking to collaborate on Full Stack 
 - 📫 How to reach me Bollepallyraja@gmail.com
 
 <!---
